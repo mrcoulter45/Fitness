@@ -13,6 +13,7 @@
   - Deadlift and hold (3 seconds)
   - Drop set rows: 40&25lbs
   - Dumbbell bench press: 45/50/55
+  - [Dumbbell bent-over raise](https://www.youtube.com/watch?v=ttvfGg9d76c&ab_channel=ScottHermanFitness): 10/15
   - [Dumbbell clean](https://www.youtube.com/watch?v=SYxObzJ3gn0)
   - Dumbbell deadlifts: 45/50/60
   - Dumbbell flys
