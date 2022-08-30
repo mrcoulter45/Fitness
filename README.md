@@ -30,7 +30,7 @@
   - [Explosive flat bench press](https://www.youtube.com/watch?v=s_kiSa-JReM)
   - Floor press
   - Floor press on a box
-  - [Front squat](https://www.youtube.com/watch?v=uYumuL_G_V0): 135
+  - [Front squat](https://www.youtube.com/watch?v=uYumuL_G_V0): 155
   - [Front chest raise(Sagittarius front raises)](https://www.youtube.com/watch?v=-t7fuZ0KhDA): 10
   - Glute and hamstring development sliders: 25
   - Goblet squat: 90
@@ -118,7 +118,7 @@
   - Alternating medicine ball throws
   - Wall Balls Variations
   - Slamball Crossovers: 10
-  - Box jumps
+  - Box jumps: 15
   - Slam balls
   - Lunged slamball
   - Sprints
